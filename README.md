@@ -9,4 +9,5 @@ Model with Conv2D layers, based on Adam optimizer
 
 
 #### Model visualization
-<img src="dice/dice_plot.png" display:inline-block;/>
+<img src="https://raw.githubusercontent.com/oziomek1/NNLearning/master/dice/dice_plot.png">
+
